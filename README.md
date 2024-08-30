@@ -8,6 +8,4 @@ The system user can select the category in which they specialize by simply enter
 
 NOTE: RUN THE PROGRAM IN FULL SCREEN ONLY
 
-Screenshot from application below: 
 
-![mail 2](https://user-images.githubusercontent.com/63939366/163225032-1ff25481-bf43-4a09-b81c-4eacbc207cf8.png)
